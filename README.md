@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+
+[README (3).md](https://github.com/user-attachments/files/25912202/README.3.md)
 <h1 align="center">Hey there 👋, I'm Yash</h1>
 <h3 align="center">BCA Student | Aspiring AI/ML Engineer | Cybersecurity Enthusiast</h3>
 
@@ -104,4 +107,3 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center"><i>"The best way to predict the future is to build it." — Alan Kay</i></p>
-
